@@ -6,8 +6,3 @@
 
 ![Thumbnail of Dinky](thumbnail.png)
 
-* * *
-
-# Poster used for promotion:
-
-![Advocacy Poster](Advocacy Project Poster.png)
