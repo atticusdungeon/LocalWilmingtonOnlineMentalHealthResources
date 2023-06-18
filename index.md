@@ -1,123 +1,42 @@
 ---
 layout: default
+title: Mental Health and Substance Abuse Services
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [Local Wilmington Services](./Local-Wilmington-Services.html)
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Clicking the [link](./Local-Wilmington-Services.html) above will take you to a list of multiple mental health and substance abuse groups offering services within the local Wilmington, N.C. area.
 
 * * *
 
-### Here is an unordered list:
+# [Online Support Groups](./Online-Support-Groups.html)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Clicking the [link](./Online-Support-Groups.html) above will take you to a list of multiple online support groups offering mental health and substance abuse services.
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# [Therapist Locator](./TherapistLocator.html)
 
-### And a nested list:
+Clicking the [link](./TherapistLocator.html) above will take you to a list of websites that can assist you with finding a therpaist either **locally or online.**
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+* * *
 
-### Small image
+# Crisis Interventions and Hotlines:
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Hopeline (Suicide Prevention): 
+1-800-784-2433
 
-### Large image
+### National Drug Information Treatment and Referral Hotline: 
+1-800-662-4357
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Alcohol Abuse and Crisis Intervention: 
+1-800-234-0246
 
+### RAINN Nat’l. Sexual Assault Hotline: 
+1-800-656-4673
 
-### Definition lists can be used with HTML syntax.
+### LGBTQIA+ National Help Center:
+1-888-843-4564
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### BIPOC “BlackLine” Community: 
+1-800-604-5841
