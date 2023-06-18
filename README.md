@@ -10,4 +10,4 @@
 
 # Poster used for promotion:
 
-![Advocacy Poster](AdvocacyProjectPoster.png)
+![Advocacy Poster](Advocacy Project Poster.png)
